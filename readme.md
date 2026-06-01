@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/irfanjat/irfanjat/main/banner.png" width="100%" alt="Irfan Ali — DevOps Engineer"/>
+  <img src="https://raw.githubusercontent.com/irfanjat/irfanjat/main/banner.jpg" width="100%" alt="Irfan Ali — DevOps Engineer"/>
 </div>
 
 <br/>
