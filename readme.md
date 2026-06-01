@@ -8,8 +8,8 @@
 
 [![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![IBM](https://img.shields.io/badge/IBM-DevOps_%26_SE-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=irfanjat&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/irfanjat)
 [![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irfanjat)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanali.cloud@gmail.com)
 
 </div>
 
@@ -22,13 +22,12 @@
 ## `$ whoami`
 
 ```yaml
-name       : Irfan Ali
-handle     : irfanjat
-role       : DevOps Engineer
-location   : Pakistan
-focus      : Cloud Infrastructure · GitOps · Kubernetes · Observability
-open_to    : Remote · Hybrid · On-site — Full-time
-contact    : irfanali.cloud@gmail.com
+name     : Irfan Ali
+role     : Cloud Infrastructure & DevOps Engineer
+location : Pakistan
+focus    : Kubernetes  · GitOps · AWS · Observability
+status   : Open to remote, hybrid, or on-site
+email    : irfanali.cloud@gmail.com
 ```
 
 <br/>
@@ -39,13 +38,11 @@ contact    : irfanali.cloud@gmail.com
 
 ## `$ cat about.txt`
 
-I build infrastructure that doesn't need babysitting.
+I build infrastructure that's reproducible, auditable, and quietly reliable.
 
-**8+ months** deep in production-grade AWS architecture, GitOps pipelines, and Kubernetes observability — self-taught, hands-on, and shipping real work across **20+ public repositories**.
+My work spans Kubernetes operators in Go, GitOps pipelines with ArgoCD, production AWS via modular Terraform, and DevSecOps pipelines with security gates at every stage. I care about systems that just work — no babysitting required.
 
-My stack centers on Terraform IaC, GitHub Actions CI, ArgoCD GitOps, and a full Prometheus · Grafana · Loki observability layer. I care about systems that are reproducible, auditable, and quietly reliable — infrastructure that just works.
-
-Currently pursuing a **BS in Computer Science** at the University of Sindh, Jamshoro. Certifications from **IBM** and **AWS**. Always building something.
+Currently pursuing a BS in Computer Science at the University of Sindh.
 
 <br/>
 
@@ -61,38 +58,6 @@ Currently pursuing a **BS in Computer Science** at the University of Sindh, Jams
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform,ansible,prometheus,grafana,python,bash,go,linux,git&theme=dark" />
 </div>
 
-<br/>
-
-| Layer | Technologies |
-|---|---|
-| **☁️ Cloud** | AWS — VPC · EC2 · ALB · Auto Scaling · EKS · RDS · S3 · IAM · DynamoDB · CloudWatch |
-| **🏗️ Infrastructure as Code** | Terraform · Ansible |
-| **🐳 Containers & Orchestration** | Docker · Kubernetes · Amazon EKS |
-| **🔄 CI/CD & GitOps** | GitHub Actions · ArgoCD · Jenkins |
-| **📊 Observability** | Prometheus · Grafana · Loki · Alertmanager |
-| **💻 Languages** | Python · Bash · Go |
-
-<br/>
-
----
-
-<br/>
-
-## `$ cat certifications.txt`
-
-<br/>
-
-<div align="center">
-
-| Certification | Issuer | Status |
-|---|---|---|
-| **Introduction to DevOps Engineering** Professional Certificate | IBM / Coursera | ✅ Earned |
-| **AWS Cloud Practitioner Essentials** | Amazon Web Services | ✅ Earned |
-| **AWS Cloud Technical Essentials** | Amazon Web Services | ✅ Earned |
-
-</div>
-
-<br/>
 
 ---
 
@@ -136,12 +101,12 @@ Currently pursuing a **BS in Computer Science** at the University of Sindh, Jams
 
 ```
 Host irfanjat — REACHABLE
-Latency: low   |   Reliability: high   |   Uptime: 99.9%
+Latency: low  |  Reliability: high  |  Uptime: 99.9%
 ```
 
 <br/>
 
-> *Infrastructure should be invisible. That's how you know it's working.*
+> Infrastructure should be invisible. That's how you know it's working.
 
 </div>
 
