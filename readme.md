@@ -6,9 +6,7 @@
 
 <div align="center">
 
-[![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![IBM](https://img.shields.io/badge/IBM-DevOps_%26_SE-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irfanjat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irfanjat)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanali.cloud@gmail.com)
 
 </div>
@@ -17,55 +15,38 @@
 
 ---
 
-<br/>
-
 ## `$ whoami`
 
 ```yaml
 name     : Irfan Ali
-role     : Cloud Infrastructure & DevOps Engineer
+role     : DevOps & Cloud Engineer
 location : Pakistan
-focus    : Kubernetes  · GitOps · AWS · Observability
-status   : Open to remote, hybrid, or on-site
-email    : irfanali.cloud@gmail.com
+focus    : Kubernetes · GitOps · AWS · Observability
+status   : Open to remote opportunities
 ```
 
-<br/>
-
 ---
-
-<br/>
 
 ## `$ cat about.txt`
 
 I build infrastructure that's reproducible, auditable, and quietly reliable.
 
-My work spans Kubernetes operators in Go, GitOps pipelines with ArgoCD, production AWS via modular Terraform, and DevSecOps pipelines with security gates at every stage. I care about systems that just work — no babysitting required.
+Current focus: Kubernetes, GitOps pipelines with ArgoCD, AWS via modular Terraform,
+and DevSecOps workflows with security checks at each stage.
 
-Currently pursuing a BS in Computer Science at the University of Sindh.
-
-<br/>
+BS Computer Science — University of Sindh (in progress).
 
 ---
-
-<br/>
 
 ## `$ cat stack.yaml`
 
-<br/>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,terraform,ansible,prometheus,grafana,python,bash,go,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,ansible,prometheus,grafana,python,bash,linux,git&theme=dark" />
 </div>
-
 
 ---
 
-<br/>
-
 ## `$ git log --stat`
-
-<br/>
 
 <div align="center">
 
@@ -79,15 +60,9 @@ Currently pursuing a BS in Computer Science at the University of Sindh.
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
 ## `$ ping irfanjat`
-
-<br/>
 
 <div align="center">
 
@@ -99,15 +74,6 @@ Currently pursuing a BS in Computer Science at the University of Sindh.
 
 <br/><br/>
 
-```
-Host irfanjat — REACHABLE
-Latency: low  |  Reliability: high  |  Uptime: 99.9%
-```
-
-<br/>
-
 > Infrastructure should be invisible. That's how you know it's working.
 
 </div>
-
-<br/>
