@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/irfanjat/irfanjat/main/banner.jpg" width="100%" alt="Irfan Ali — DevOps Engineer"/>
 </div>
-
 <br/>
 
 <div align="center">
@@ -10,7 +9,6 @@
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanali.cloud@gmail.com)
 
 </div>
-
 <br/>
 
 ---
@@ -29,12 +27,24 @@ status   : Open to remote opportunities
 
 ## `$ cat about.txt`
 
-I build infrastructure that's reproducible, auditable, and quietly reliable.
+I got into DevOps in early 2025, starting from scratch with Docker and Kubernetes
+and just kept going — Terraform, GitOps, observability, all of it.
+I like building things that actually run in production, not just tutorial projects,
+and I care a lot about automating away the manual stuff so systems stay reliable
+and repeatable.
 
-Current focus: Kubernetes, GitOps pipelines with ArgoCD, AWS via modular Terraform,
-and DevSecOps workflows with security checks at each stage.
+Currently a final-year CS student at University of Sindh.
 
-BS Computer Science — University of Sindh (in progress).
+---
+
+## `$ cat currently.yaml`
+
+```yaml
+building : GitOps pipelines with ArgoCD + self-healing sync
+learning : DevSecOps — Trivy, OPA, Checkov in the pipeline
+reading  : Terraform Up & Running (3rd ed.)
+next_up  : CNCF LFX Mentorship / GSoC applications
+```
 
 ---
 
@@ -49,15 +59,11 @@ BS Computer Science — University of Sindh (in progress).
 ## `$ git log --stat`
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=irfanjat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=0e75b6&text_color=ffffff" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanjat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" height="180"/>
-
 <br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanjat&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=0e75b6&currStreakLabel=00d9ff" width="680"/>
-
 </div>
 
 ---
