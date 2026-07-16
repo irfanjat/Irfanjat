@@ -1,113 +1,67 @@
-<div align="center">
+<h1 align="center">Hi, I'm Irfan</h1>
+<h3 align="center">Cloud Infrastructure • Platform Engineering • Automation</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=200&section=header&text=Irfan%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Platform%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<p align="center">
+  <a href="https://irfanjat.github.io"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/irfanjat"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:irfanali.cloud@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<br/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Automating+the+boring+stuff.;Building+GitOps+pipelines.;Kubernetes+%7C+Terraform+%7C+AWS.;Turning+manual+ops+into+code." alt="Typing SVG" />
+### ⚡ Core Philosophy
 
-<br/><br/>
+> *Infrastructure is code. Reliability is culture. Automation is the answer.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irfanjat)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfanali.cloud@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanjat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://irfanjat.github.io)
+I architect cloud-native systems that are **scalable**, **secure**, and **self-healing**. My approach combines deep technical expertise with a product-minded perspective—building platforms that empower engineering teams to ship faster with confidence.
 
-</div>
+---
 
-<br/>
+### 🛠️ Engineering Toolkit
 
-## About Me
-
-I'm a self-taught **DevOps & Cloud Infrastructure Engineer** and final-year CS student at the University of Sindh, Pakistan. I started from zero in early 2025 with Docker and Kubernetes, and since then I've been obsessed with one idea: **infrastructure should be automated, observable, and boring — in the best way possible.**
-
-- 🔭 Currently building end-to-end **GitOps pipelines** with self-healing sync via ArgoCD
-- 🌱 Deep-diving into **AI-Assisted DevOps & MLOps** — bringing ML pipelines into the same automation-first mindset
-- ☁️ Comfortable across the full stack: provisioning → deployment → observability
-- 🎓 Final-year BS Computer Science student (graduating 2027)
-- 📜 OCI Foundations Associate certified
-- 💬 Open to **remote / hybrid entry-level DevOps, Cloud & Platform Engineering roles**
-
-<br/>
-
-## Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,ansible,jenkins,prometheus,grafana,python,bash,linux,fedora,git&theme=dark"/>
-</div>
-
-<br/>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🔄 GitOps CI/CD Pipeline
-End-to-end pipeline shipping code from commit to cluster with ArgoCD-driven self-healing sync.
-
-`GitHub Actions` `ArgoCD` `Kubernetes` `Docker`
-
-</td>
-<td width="33%" valign="top">
-
-### 🏗️ Multi-Tier AWS Infra
-Modular Terraform stack — 24 resources, remote state, DynamoDB locking, production-grade layout.
-
-`Terraform` `AWS` `IaC`
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 K8s Observability Stack
-Full monitoring stack for Kubernetes workloads with metrics, logs, and dashboards.
-
-`kube-prometheus-stack` `Loki` `Grafana`
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center"><b>Infrastructure</b></td>
+    <td align="center"><b>Orchestration</b></td>
+    <td align="center"><b>CI/CD & GitOps</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=aws,terraform,ansible&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=kubernetes,docker,linux&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=githubactions,jenkins,git&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Observability</b></td>
+    <td align="center"><b>Languages</b></td>
+    <td align="center"><b>Platforms</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,bash&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" /></td>
+  </tr>
 </table>
 
+---
+
+### 📊 Engineering Metrics
+
 <div align="center">
-<sub>Explore all pinned repos ↓</sub>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=irfanjat&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanjat&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 
-<br/>
+---
 
-## GitHub Analytics
+### 🎯 Current Focus
 
-<div align="center">
+- **Platform Engineering:** Building internal developer platforms that abstract complexity
+- **GitOps:** Advancing declarative infrastructure and continuous delivery
+- **AI/ML Ops:** Bridging the gap between data science and production engineering
+- **Cloud Economics:** Optimizing for cost, performance, and sustainability
 
-<img src="https://github-readme-stats.vercel.app/api?username=irfanjat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=0e75b6&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanjat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanjat&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=0e75b6&currStreakLabel=00d9ff" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanjat&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=0e75b6&point=ffffff" width="100%"/>
-
-</div>
-
-<br/>
-
-## Let's Connect
+---
 
 <div align="center">
-
-I'm actively looking for remote DevOps / Cloud / Platform Engineering opportunities — feel free to reach out.
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/irfanjat)&nbsp;&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:irfanali.cloud@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/irfanjat)
-
-<br/>
-
-> *"Infrastructure should be invisible. That's how you know it's working."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0d1117&height=100&section=footer" width="100%"/>
-
+  <sub><b>Let's build infrastructure that outlasts its builders.</b></sub>
 </div>
