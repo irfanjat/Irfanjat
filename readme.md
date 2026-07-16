@@ -9,15 +9,13 @@
 
 ---
 
-### ⚡ Core Philosophy
+### About
 
-> *Infrastructure is code. Reliability is culture. Automation is the answer.*
-
-I architect cloud-native systems that are **scalable**, **secure**, and **self-healing**. My approach combines deep technical expertise with a product-minded perspective—building platforms that empower engineering teams to ship faster with confidence.
+Final-year CS student focused on cloud infrastructure and DevOps. I build and break things with Terraform, Kubernetes, and CI/CD pipelines — currently going deeper into **AI-assisted DevOps** and **MLOps** to bring automation into the ML lifecycle.
 
 ---
 
-### 🛠️ Engineering Toolkit
+### 🛠️ Toolkit
 
 <table align="center">
   <tr>
@@ -44,7 +42,7 @@ I architect cloud-native systems that are **scalable**, **secure**, and **self-h
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=irfanjat&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
@@ -53,15 +51,8 @@ I architect cloud-native systems that are **scalable**, **secure**, and **self-h
 
 ---
 
-### 🎯 Current Focus
+### 🎯 Currently
 
-- **Platform Engineering:** Building internal developer platforms that abstract complexity
-- **GitOps:** Advancing declarative infrastructure and continuous delivery
-- **AI/ML Ops:** Bridging the gap between data science and production engineering
-- **Cloud Economics:** Optimizing for cost, performance, and sustainability
-
----
-
-<div align="center">
-  <sub><b>Let's build infrastructure that outlasts its builders.</b></sub>
-</div>
+- Learning **AI-assisted DevOps** — using AI tooling for automation, cost analysis, and faster troubleshooting
+- Exploring **MLOps** — connecting ML workflows to production-grade CI/CD and infra
+- Building GitOps pipelines with GitHub Actions + ArgoCD
