@@ -49,10 +49,10 @@ Hi, I'm **Irfan** — a final-year CS student focused on **cloud infrastructure 
 
 ## 🧭 My Approach
 
-> 🔁 Automate what repeats
-> 🧩 Break systems down before scaling them
-> 📈 Measure before optimizing
-> 💬 Document and share what I learn
+1. 🔁 Automate what repeats
+2. 🧩 Break systems down before scaling them
+3. 📈 Measure before optimizing
+4. 💬 Document and share what I learn
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
