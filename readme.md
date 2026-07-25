@@ -33,7 +33,7 @@ Hi, I'm **Irfan** — a final-year CS student focused on **cloud infrastructure 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,ansible,githubactions,linux,python,bash,git,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,ansible,githubactions,linux,python,java,bash,git,tensorflow&theme=dark" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
