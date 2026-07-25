@@ -1,6 +1,6 @@
 <!-- Replace assets/banner.png with your own banner image -->
 <p align="center">
-  <img src="assets/banner.jpg" alt="Irfan Banner" width="100%"/>
+  <img src="banner.jpg" alt="Irfan Banner" width="100%"/>
 </p>
 
 <p align="center">
