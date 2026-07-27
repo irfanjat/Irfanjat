@@ -39,9 +39,10 @@ Hi, I'm **Irfan** — a Third-year CS student focused on **cloud infrastructure 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfanjat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=irfanjat&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=irfanjat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e0ff&icon_color=00e0ff&text_color=ffffff" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=irfanjat&hide_border=true&background=0d1117&stroke=00e0ff&ring=00e0ff&fire=ff6b00&currStreakLabel=ffffff" height="160"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
