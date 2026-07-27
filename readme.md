@@ -17,9 +17,9 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Irfan** — a final-year CS student focused on **cloud infrastructure and DevOps**.
+Hi, I'm **Irfan** — a Third-year CS student focused on **cloud infrastructure and DevOps**.
 
-- 🎓 Final-year Computer Science student at the University of Sindh, Jamshoro, Pakistan
+- 🎓 Third-year Computer Science student at the University of Sindh, Jamshoro, Pakistan
 - ☁️ Working with AWS: EC2, VPC, S3, IAM, EKS
 - 🛠 CI/CD & IaC: Terraform, GitHub Actions, ArgoCD, Ansible
 - 📦 Containers & orchestration: Docker, Kubernetes
