@@ -41,10 +41,15 @@ Hi, I'm **Irfan** — a Third-year CS student focused on **cloud infrastructure 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfanjat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e0ff&icon_color=00e0ff&text_color=ffffff" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=irfanjat&hide_border=true&background=0d1117&stroke=00e0ff&ring=00e0ff&fire=ff6b00&currStreakLabel=ffffff" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=irfanjat&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=irfanjat&theme=github-dark&hide_border=true"
+    height="165"
+  />
 </p>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🧭 My Approach
