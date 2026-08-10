@@ -1,6 +1,5 @@
-<!-- Replace assets/banner.png with your own banner image -->
 <p align="center">
-  <img src="banner.jpg" alt="Irfan Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:58a6ff&height=200&section=header&text=Irfan%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Infrastructure%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 </p>
 
 <p align="center">
@@ -17,14 +16,13 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Irfan** — a Third-year CS student focused on **cloud infrastructure and DevOps**.
+Hi, I'm **Irfan** — a self-directed **DevOps and Cloud Infrastructure Engineer**.
 
-- 🎓 Third-year Computer Science student at the University of Sindh, Jamshoro, Pakistan
 - ☁️ Working with AWS: EC2, VPC, S3, IAM, EKS
 - 🛠 CI/CD & IaC: Terraform, GitHub Actions, ArgoCD, Ansible
 - 📦 Containers & orchestration: Docker, Kubernetes
 - 📊 Observability: Prometheus, Grafana, Loki
-- 🤖 AI-assisted DevOps and MLOps enthusiast
+- 🔐 DevSecOps: Trivy, Snyk, OPA/Gatekeeper
 
 > "Automate the boring parts, monitor everything else."
 
@@ -50,6 +48,7 @@ Hi, I'm **Irfan** — a Third-year CS student focused on **cloud infrastructure 
     height="165"
   />
 </p>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🧭 My Approach
@@ -65,5 +64,6 @@ Hi, I'm **Irfan** — a Third-year CS student focused on **cloud infrastructure 
 
 - 🤖 Exploring AI-assisted DevOps — using AI tools to speed up troubleshooting, automation, and infra decisions
 - 🧠 MLOps enthusiast — learning how ML workflows plug into production CI/CD and infrastructure
-- 🌐 Deepening cloud networking fundamentals — VPCs, load balancing, DNS
-- ⚙️ Studying Kubernetes internals beyond day-to-day usage
+- 🌐 Deepening cloud networking fundamentals — VPCs, CIDR/subnetting, ALB/NLB, DNS
+- ⚙️ Studying Kubernetes internals and networking beyond day-to-day usage
+- 🔐 Building out DevSecOps pipelines (Trivy, Snyk, OPA/Gatekeeper) in personal projects
