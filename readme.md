@@ -35,7 +35,7 @@ Hi, I'm **Irfan** — a self-directed **DevOps and Cloud Engineer**.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,githubactions,jenkins,git,github,linux,bash,python,java" />
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,githubactions,jenkins,git,github,linux,bash,python" />
 
 <br><br>
 
