@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### ☁️ DevOps & Cloud Infrastructure Engineer
+### ☁️ DevOps & Cloud Engineer
 
 **AWS • Kubernetes • Terraform • CI/CD • GitOps • DevSecOps**
 
@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-Hi, I'm **Irfan** — a self-directed **DevOps and Cloud Infrastructure Engineer**.
+Hi, I'm **Irfan** — a self-directed **DevOps and Cloud Engineer**.
 
 * ☁️ Working with AWS: EC2, VPC, S3, IAM, EKS
 * 🛠 CI/CD & IaC: Terraform, GitHub Actions, ArgoCD, Ansible
@@ -69,8 +69,7 @@ Hi, I'm **Irfan** — a self-directed **DevOps and Cloud Infrastructure Engineer
 * 🤖 Exploring AI-assisted DevOps — using AI tools to speed up troubleshooting, automation, and infra decisions
 * 🧠 MLOps enthusiast — learning how ML workflows plug into production CI/CD and infrastructure
 * 🌐 Deepening cloud networking fundamentals — VPCs, CIDR/subnetting, ALB/NLB, DNS
-* ⚙️ Studying Kubernetes internals and networking beyond day-to-day usage
-* 🔐 Building out DevSecOps pipelines (Trivy, Snyk, OPA/Gatekeeper) in personal projects
+
 
 ---
 
