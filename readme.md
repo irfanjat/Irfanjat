@@ -2,10 +2,6 @@
 
 <img src="assets/github-banner.png" alt="Irfan Ali — DevOps & Cloud Engineer" width="100%"/>
 
-### ☁️ DevOps & Cloud Engineer
-
-**AWS • Kubernetes • Terraform • CI/CD • GitOps • DevSecOps**
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanjat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanjat)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://irfanjat.github.io/portfolio)
